@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <VersionPrefix>7.0.4</VersionPrefix>
-    <TargetFrameworks>netstandard2.0;net461</TargetFrameworks>
     <AssemblyName>Elasticsearch.Net.Aws</AssemblyName>
     <PackageId>Elasticsearch.Net.Aws</PackageId>
     <PackageVersion>7.0.4</PackageVersion>
