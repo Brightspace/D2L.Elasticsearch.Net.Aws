@@ -1,4 +1,4 @@
-version: 7.6.1.{build}
+version: 7.8.0.{build}
 
 image: Visual Studio 2019
 skip_branch_with_pr: true
